@@ -13,26 +13,26 @@ On veut ici représenté l'ordonnancement de processus. Dans notre cas c'est un 
 C'est à dire que les processus sont trié dans la file en fonction de leur priorité et que si un processus arrive à un temps 
 t il n'interrompera pas l'execution du processus en cours.
 
-## Contenu
+# Contenu
 
-# source
+## source
 
 ordonnanceur.h
 ordonnanceur.c
 
 main.c
 
-# bin
+## bin
 
 ordonnanceur.o
 
 main.o
 
-## Execution
+# Execution
 
 make exe
 
-## Make
+# Make
 
 make : pour compiler
 make exe :  pour compiler et executer
