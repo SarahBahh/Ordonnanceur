@@ -38,6 +38,9 @@ make exe
 # Make
 
 make : pour compiler
+
 make exe :  pour compiler et executer
+
 make zip : pour compiler et compresser
+
 make clean : pour compiler et enlever le fichier bin
