@@ -59,7 +59,7 @@ void Remplirfile(File *maFile){
          printf("Entrer la priorité entre 0 et 5 de votre processus\n");
          scanf("%d",&votreprocessus.priorite);
          while(votreprocessus.priorite<0||votreprocessus.priorite>5){
-            printf("La priorité entrée n'est pas comprise entre 0 et 5 réessayé\n");
+            printf("La priorité entrée n'est pas comprise entre 0 et 5 réessayez\n");
             scanf("%d",&votreprocessus.priorite);
          }
          //on ajoute le nouveau processus crée à la file mise en argument de la procedure
