@@ -6,6 +6,9 @@ Ce devoir a pour but de représenter un ordonnanceur à l'aide d'une file, il a 
 Date: 08/12/22
 
 Langage: C
+# Installation
+
+https://github.com/SarahBahh/Ordonnanceur.git
 
 # Ordonnanceur
 
